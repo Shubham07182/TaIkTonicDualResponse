@@ -1,0 +1,5 @@
+streamlit
+pandas
+requests
+python-dotenv
+python-3.11
